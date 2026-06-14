@@ -50,3 +50,26 @@ Goals:
 - GNOME edition
 - Advanced security dashboard
 - Additional tooling
+
+## Project Thrishul v0.1
+
+Desktop:
+- Hyprland
+
+Security:
+- Wireshark
+- Suricata
+- Zeek
+- YARA
+
+System:
+- DNF
+- RPM Fusion
+- COPR Support
+
+Hardware:
+- NVIDIA Helper
+
+Recovery:
+- Btrfs
+- Snapper
