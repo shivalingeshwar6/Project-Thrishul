@@ -36,7 +36,7 @@ Pre-Alpha
 - Cutefish
 
 ## Project Structure
-
+<pre>
 project-thrishul/
 ├── docs/
 ├── configs/
@@ -44,7 +44,7 @@ project-thrishul/
 ├── packages/
 ├── branding/
 └── iso/
-
+</pre>
 ## License
 
 GPL-3.0
