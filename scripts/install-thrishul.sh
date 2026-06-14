@@ -49,6 +49,10 @@ sudo dnf install -y \
 https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm \
 https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
 
+echo -e "${BLUE}[2/8] Enabling Hyprland COPR Fusion...${NC}"
+
+sudo  dnf copr enable solopasha/hyprland 
+
 #########################################
 # Desktop Packages
 #########################################
