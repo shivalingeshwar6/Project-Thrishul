@@ -1,7 +1,7 @@
 # Architecture
 
 Project Thrishul Architecture
-
+<pre>
 Fedora Linux
 │
 ├── DNF
@@ -14,7 +14,7 @@ Fedora Linux
      ├── NVIDIA Helper
      ├── Snapshot Management
      └── Branding
-
+</pre>
 ## Package Sources
 
 Primary:
